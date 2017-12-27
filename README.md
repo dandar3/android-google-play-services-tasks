@@ -4,7 +4,7 @@ Eclipse library project based on:<br/>
 https://maven.google.com/com/google/android/gms/play-services-tasks/11.6.2/play-services-tasks-11.6.2.aar
 
 **Requires:**
-- `Android 8.0 (API 26) SDK Platform`
+- `Android 8.1 (API 27) SDK Platform`
 - [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tree/11.6.2)
 
 **References:**
