@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.google.android.gms.tasks" 
-    android:versionCode="1721"
-    android:versionName="17.2.1">
-
-    <uses-sdk android:minSdkVersion="14" />
-
+          package="com.google.android.gms.tasks"
+    android:versionCode="1800"
+    android:versionName="18.0.0">
+    <uses-sdk android:minSdkVersion="14"/>
     <application />
-
 </manifest>
